@@ -1,0 +1,41 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(252, 237, 237);
+}
+form{
+    max-width: 500px;
+    background: white;
+    padding: 40px;
+    margin: 20vh auto;
+    
+}
+h1{
+    margin:0px;
+    text-align: center;
+}
+label{
+    display: block;
+    padding: 5px;
+}
+input,textarea{
+    resize: none;
+    width: 100%;
+    
+    
+}
+button{
+    margin: 30px;
+    width: 90%;
+    height: 30px;
+    color: white;
+    border: none;
+    background-color: rgb(202, 150, 150);
+    cursor: pointer;
+    resize: none;
+}
+output{
+    text-align: center;
+    height: 30px;
+}
